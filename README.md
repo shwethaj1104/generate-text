@@ -1,6 +1,6 @@
 # Generate Random Text
 
-Application developed on React.js
+Application developed on React.js.
 
 Application is available at https://generate-text.vercel.app/
 
