@@ -2,7 +2,7 @@
 
 Application developed on React.js.
 
-checkout the available at https://generate-text.vercel.app/
+checkout the application at https://generate-text.vercel.app/
 
 User can select the number of paragraphs of random text via provided input form.
 
